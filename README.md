@@ -1,4 +1,4 @@
-# TeamSpeakHasher
+# TerrySpeakHasher
 
 TeamSpeakHasher is an OpenCL-based tool that can be used to increase the security level of TeamSpeak identities with unprecedented performance and efficiency.
 
